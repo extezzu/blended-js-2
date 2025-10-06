@@ -170,5 +170,5 @@ totalPrice += fruit.price * fruit.quantity;
 }
 return totalPrice;
 }
-
+}
 console.groupEnd();
