@@ -1,1 +1,1 @@
-# goit-js-hw-03
+# goit-blended-2
